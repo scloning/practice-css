@@ -55,11 +55,11 @@
 
 #foot-pic {
 	position: absolute;
-	margin-top: 25px;
+	margin-top: 25px; margin-left: 15px;
 	}
 #foot-body {
 	position: relative;
-	margin-left: 350px;
+	margin-left: 365px;
 	padding: 15px;
 	}
 
