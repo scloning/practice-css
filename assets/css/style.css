@@ -14,6 +14,12 @@
 	margin-left: 30px;
 	}
 
+.initial {
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+	font-weight: bold;
+	font-size: 40px;
+	}
+	
 #pull-quote {
 	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
 	font-size: 18px;
